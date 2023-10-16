@@ -1,1 +1,1 @@
-# jejumaster
+# jejumaster 연습
